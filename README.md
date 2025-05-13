@@ -1,4 +1,4 @@
-# SolanaAI Agent
+# SMOLana Agent
 
 An intelligent agent for Solana blockchain development, token trading, and NFT creation using SmolAgents and Metaplex.
 
